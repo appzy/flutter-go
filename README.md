@@ -36,6 +36,7 @@ Language: [English](https://github.com/alibaba/flutter-go/blob/master/README-en.
 
 
 ## 基础环境
+
 本项目环境持续更新. 请定期更新各依赖包.
 
 - dart(version: 2.0.0)
@@ -74,7 +75,7 @@ flutter优点主要包括：
 <img src="https://img.alicdn.com/tfs/TB1MoiNExTpK1RjSZFGXXcHqFXa-362-751.gif" width=200> <img src="https://img.alicdn.com/tfs/TB1oeicBhjaK1RjSZFAXXbdLFXa-345-717.gif" width=200>  <img src="https://img.alicdn.com/tfs/TB1WJNuBmzqK1RjSZPcXXbTepXa-345-717.gif" width=200>  <img src="https://img.alicdn.com/tfs/TB13Xh3BkvoK1RjSZFNXXcxMVXa-345-717.gif" width=200>  
 
 ### Core Team
-
+```
 <table>
   <tbody>
     <tr>
@@ -106,8 +107,10 @@ flutter优点主要包括：
      </tr>
   </tbody>
 </table>
-
+```
 ### 版权说明
+
+
 -- 感谢大家对 `flutter go` 的支持和下载,但近期发现，有类似直接被发布到苹果 app store 上的行为，并未注明真实来源，copyright 和 项目的 github 地址，以及开发者的版权相关信息（ 包括删除"首页栏的版权声明"和"关于我们"的行为 );
 
 -- 上述行为，打击了 `flutter go` 开发者的积极性，同时干扰了 flutter go app 的正常发布渠道，基于 app 开源项目的发布特殊性，特更新 [LICENSE](LICENSE) 「 开源许可证 」,由 MIT 协议 更改为 BSD 协议, 同时建议不要随意发布到公共渠道的应用商店，影响官方 `flutter go` 的app版本迭代;
