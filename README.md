@@ -3,7 +3,7 @@ Language: [English](https://github.com/alibaba/flutter-go/blob/master/README-en.
 
 ![https://img.alicdn.com/tfs/TB1OJkeHNYaK1RjSZFnXXa80pXa-229-229.png](https://img.alicdn.com/tfs/TB1OJkeHNYaK1RjSZFnXXa80pXa-229-229.png)
 
-> 帮助开发者快速上手 Flutter  **Flutter Go 1.0 Android版已正式发布**
+###### > 帮助开发者快速上手 Flutter  **Flutter Go 1.0 Android版已正式发布**
 
 ## 版本更新历史
 > 按时间顺序,展示重要的提交更新内容。
@@ -19,7 +19,6 @@ Language: [English](https://github.com/alibaba/flutter-go/blob/master/README-en.
 > 考虑到 Flutter 未来的变化和策略的可变性, roadmap 不排除有一定调整，但总体不会变化太大。
 
 <img src="https://img.alicdn.com/tfs/TB19UahQQzoK1RjSZFlXXai4VXa-1500-1106.png" width="600px">
-
 
 
 ## Release安装包下载地址
@@ -109,7 +108,6 @@ flutter优点主要包括：
 </table>
 ```
 ### 版权说明
-
 
 -- 感谢大家对 `flutter go` 的支持和下载,但近期发现，有类似直接被发布到苹果 app store 上的行为，并未注明真实来源，copyright 和 项目的 github 地址，以及开发者的版权相关信息（ 包括删除"首页栏的版权声明"和"关于我们"的行为 );
 
