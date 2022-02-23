@@ -3,7 +3,7 @@ Language: [English](https://github.com/alibaba/flutter-go/blob/master/README-en.
 
 ![https://img.alicdn.com/tfs/TB1OJkeHNYaK1RjSZFnXXa80pXa-229-229.png](https://img.alicdn.com/tfs/TB1OJkeHNYaK1RjSZFnXXa80pXa-229-229.png)
 
-###### > 帮助开发者快速上手 Flutter  **Flutter Go 1.0 Android版已正式发布**
+> 帮助开发者快速上手 Flutter  **Flutter Go 1.0 Android版已正式发布**
 
 ## 版本更新历史
 > 按时间顺序,展示重要的提交更新内容。
